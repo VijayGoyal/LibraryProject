@@ -1,0 +1,4 @@
+LibraryProject
+==============
+
+Localization Sample
